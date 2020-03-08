@@ -5,4 +5,4 @@
 5. No relevant experience.
 6. Experience: development and maintenance of the web-portal "Farmer Online" (https://farmers.by)
 7. Education: BSU Institute of Business, specialty in information resources management, 2016 - 2019. QA Academy course, 2 month, 2019.
-8. English: B2 (Upper Intermediate)
+8. English: B2 (Upper Intermediate). German: A1.
